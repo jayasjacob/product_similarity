@@ -1,0 +1,7 @@
+Stores With model number:
+       Flipkart
+       Amazon
+       Croma
+Two if conditions with comparing brand and model number
+
+if that satisfying take payload and send it to db
